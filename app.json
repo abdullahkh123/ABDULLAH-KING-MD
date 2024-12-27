@@ -1,7 +1,7 @@
 {
-  "name": "PANHWAR-MD",
-  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴘᴀɴʜᴡᴀʀ ᴍᴅ",
-  "logo": "https://i.ibb.co/KsGQPvS/Manul-Ofc-X.jpg",
+  "name": "ABDULLAH-KING-MD",
+  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ  ᴍᴅ",
+  "logo": "https://i.ibb.co/Wnf2wJk/Manul-Ofc-X.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -16,7 +16,7 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://i.ibb.co/KsGQPvS/Manul-Ofc-X.jpg"
+      "value": "https://i.ibb.co/Wnf2wJk/Manul-Ofc-X.jpg"
     }, 
     
     "ALIVE_MSG": {
