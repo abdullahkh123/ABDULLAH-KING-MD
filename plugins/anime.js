@@ -11,7 +11,7 @@ cmd({
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
 
-let dec = `❮❮❮ *PANHWAR-MD ANIME PHOTOS* ❯❯❯`
+let dec = `❮❮❮ *ABDULLAH-KING-MD ANIME PHOTOS* ❯❯❯`
 await conn.sendMessage(from,{image:{url: `https://i.ibb.co/7NKFsxS/IMG-20241119-WA0087.jpg`},caption:dec},{quoted:mek});
 await conn.sendMessage(from,{image:{url: `https://telegra.ph/file/51b44e4b086667361061b.jpg`},caption:dec},{quoted:mek});
 await conn.sendMessage(from,{image:{url: `https://telegra.ph/file/7d165d73f914985542537.jpg`},caption:dec},{quoted:mek});
