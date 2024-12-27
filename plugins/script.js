@@ -13,16 +13,25 @@ try{
 let repo =`
 *╭──────────────●●►*
 > *BOT OWNER:*
-*|* *ANSAR PANHWAR*
+*|* *ABDULLAH KING*
 
 > *PANHWAR MD REPO:*
-*|* *https://github.com/Panhwar110/Panhwar-MD*
+*|* *https://github.com/abdullahkh123/ABDULLAH-KING-MD*
 
 > *SUPPORT CHANNEL:*
-*|* *https://whatsapp.com/channel/0029ValASu1IN9ifummBKW1U*
+*|* *https://whatsapp.com/channel/0029VatGT5777qVZ3dHdYK2g*
+
+>|*YOUTUBE CHANNEL:*
+*|* *https://youtube.com/@abdullah_king_x_hacker_jadooon?si=IzpHCskEpho-x6es*
+
+>|*TELEGRAM CHANNEL:*
+*|* *https://t.me/abdullahmods22*
+
+>|*WHATSALL GROUP:*
+*|* *https://chat.whatsapp.com/K6vTWpB5yCw2jGo2V9beqH*
 *╰──────────────●●►*
 
-> *🇵🇰PANHWAR-MD*
+> *🇵🇰ABDULLAH-KING-MD*
 `
 await conn.sendMessage(from, { text: repo ,
   contextInfo: {
@@ -39,8 +48,8 @@ externalAdReply: {
 title: 'PANHWAR MD',
 body: `${pushname}`,
 mediaType: 1,
-sourceUrl: "https://github.com/Panhwar110/Panhwar-MD" ,
-thumbnailUrl: "https://i.ibb.co/7NKFsxS/IMG-20241119-WA0087.jpg" ,
+sourceUrl: "https://github.com/abdullahkh123/ABDULLAH-KING-MD" ,
+thumbnailUrl: "https://i.ibb.co/Wnf2wJk/Manul-Ofc-X.jpg" ,
 renderLargerThumbnail: true,
 showAdAttribution: true
 }
