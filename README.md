@@ -7,7 +7,7 @@
             alt="PANHWAR" 
             width="700" 
             height="400" 
-            src="https://i.ibb.co/MNpy6DM/Manul-Ofc-X.jpg" 
+            src="https://i.ibb.co/Wnf2wJk/Manul-Ofc-X.jpg" 
             style="border: 3px solid #000; border-radius: 15px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease, box-shadow 0.3s ease;"
             onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 16px rgba(0, 0, 0, 0.4)';"
             onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 12px rgba(0, 0, 0, 0.3)';"
