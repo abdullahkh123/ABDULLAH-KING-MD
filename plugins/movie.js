@@ -25,7 +25,7 @@ cmd({
         }
 
         const movieInfo = `
-*🎬 PANHWAR MD 🎬*
+*🎬 ABDULLAH KING MD 🎬*
 
 *ᴛɪᴛʟᴇ:* ${data.Title}
 *ʏᴇᴀʀ:* ${data.Year}
