@@ -78,22 +78,7 @@
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-### <br>    ❖ CREATE ACCOUNT HOST.TALKDROVE WEB ❖
 
-<p align="center">
-<a href="https://host.talkdrove.com/auth/signup?ref=2E22E5E8"><img height= "35" title="Author" src="https://img.shields.io/badge/Signup H.TALKDROVE-blue?style=for-the-badge&logo=render"></a>
-<p/>
-
-   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-### <br>    ❖  FREE DEPLOY HOST.TALKDROVE WEB ❖
-
-<p align="center">
-<a href="https://host.talkdrove.com/share-bot/62"><img height= "35" title="Author" src="https://img.shields.io/badge/DEPLOY H.TALKDROVE-blue?style=for-the-badge&logo=render"></a>
-<p/> 
-    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
     
 ### 🟢 𝙎𝙐𝙋𝙋𝙊𝙍𝙏 𝙂𝙍𝙊𝙐𝙋 𝙇𝙄𝙉𝙆 🟢
 
