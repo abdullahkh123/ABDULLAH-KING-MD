@@ -40,8 +40,8 @@ await conn.sendMessage(from, { text: repo ,
     forwardingScore: 999,
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
-      newsletterJid: '120363321103874131@newsletter',
-      newsletterName: "Panhwar🫀💀👑",
+      newsletterJid: '120363358664877093@newsletter',
+      newsletterName: "⁣♛꧁ 𝐀𝐁𝐃𝐔𝐋𝐋𝐀𝐇༒𓆩 𝐊𝐈𝐍𝐆 .𓆪༒𝐌𝐃꧂⁣♛•°",
       serverMessageId: 144
     },
 externalAdReply: { 
