@@ -20,15 +20,6 @@ let repo =`
 
 > *SUPPORT CHANNEL:*
 *|* *https://whatsapp.com/channel/0029VatGT5777qVZ3dHdYK2g*
-
->|*YOUTUBE CHANNEL:*
-*|* *https://youtube.com/@abdullah_king_x_hacker_jadooon?si=IzpHCskEpho-x6es*
-
->|*TELEGRAM CHANNEL:*
-*|* *https://t.me/abdullahmods22*
-
->|*WHATSALL GROUP:*
-*|* *https://chat.whatsapp.com/K6vTWpB5yCw2jGo2V9beqH*
 *╰──────────────●●►*
 
 > *🇵🇰ABDULLAH-KING-MD*
