@@ -65,13 +65,13 @@
 ### 𝘿𝙀𝙋𝙇𝙊𝙔𝙈𝙀𝙉𝙏 𝙊𝙋𝙏𝙄𝙊𝙉𝙎
 </div>
 <div align="center">
-    <a href="https://dashboard.heroku.com/new-app?template=https://github.com/Panhwar110/Panhwar-MD">
+    <a href="https://dashboard.heroku.com/new-app?template=https://github.com/abdullahkh123/ABDULLAH-KING-MD">
         <img height="30" title="Heroku" src="https://img.shields.io/badge/𝗛𝗘𝗥𝗢𝗞𝗨-9966CC?style=for-the-badge&logo=render">
     </a>
-    <a href="https://dashboard.heroku.com/new-app?template=https://github.com/Panhwar110/Panhwar-MD">
+    <a href="https://dashboard.heroku.com/new-app?template=https://github.com/abdullahkh123/ABDULLAH-KING-MD">
         <img height="30" title="Heroku" src="https://img.shields.io/badge/𝗛𝗘𝗥𝗢𝗞𝗨-9966CC?style=for-the-badge&logo=render">
     </a>
-    <a href="https://dashboard.heroku.com/new-app?template=https://github.com/Panhwar110/Panhwar-MD">
+    <a href="https://dashboard.heroku.com/new-app?template=https://github.com/abdullahkh123/ABDULLAH-KING-MD">
         <img height="30" title="Heroku" src="https://img.shields.io/badge/𝗛𝗘𝗥𝗢𝗞𝗨-9966CC?style=for-the-badge&logo=render">
     </a>
 </div>
@@ -90,7 +90,7 @@
 
 
 <p align="center">
-    <a href="https://whatsapp.com/channel/0029ValASu1IN9ifummBKW1U">
+    <a href="https://whatsapp.com/channel/0029VauRrf0DOQIUMFSnDZ24">
         <img height="30" title="Support Group" src="https://img.shields.io/badge/Support%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
     </a>
 </p>
