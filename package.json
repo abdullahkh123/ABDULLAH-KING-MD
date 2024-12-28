@@ -1,12 +1,12 @@
 {
-  "name": "PANHWAR-MD",
+  "name": "⁣♛꧁ 𝐀𝐁𝐃𝐔𝐋𝐋𝐀𝐇༒𓆩 𝐊𝐈𝐍𝐆 .𓆪༒𝐌𝐃꧂⁣♛•°",
   "version": "1.0.0",
   "description": "A WhatsAppp bot created using Bailey's",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name PANHWAR-MD",
-    "stop": "pm2 stop PANHWAR-MD",
-    "restart": "pm2 restart PANHWAR-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name ABDULLAH-KING-MD",
+    "stop": "pm2 stop ABDULLAH-KING-MD",
+    "restart": "pm2 restart ABDULLAH-KING-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.7.9",
