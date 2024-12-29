@@ -26,7 +26,7 @@ async(conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, send
         if (!q && !q.startsWith("https://")) return reply("give me twitter url")
         //fetch data from api  
         let data = await fetchJson(`${baseUrl}/api/twitterdl?url=${q}`)
-        reply("*PANHWAR MD TWITTER VIDEO DOWNLOADING...📥*")
+        reply("*ABDULLAH MD TWITTER VIDEO DOWNLOADING...📥*")
         //send video (hd,sd)
         await conn.sendMessage(from, { video: { url: data.data.data.HD }, mimetype: "video/mp4", caption: `- HD\n\n ${yourName}` }, { quoted: mek })
         await conn.sendMessage(from, { video: { url: data.data.data.SD }, mimetype: "video/mp4", caption: `- SD \n\n ${yourName}` }, { quoted: mek })  
