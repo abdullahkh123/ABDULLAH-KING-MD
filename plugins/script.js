@@ -36,11 +36,11 @@ await conn.sendMessage(from, { text: repo ,
       serverMessageId: 144
     },
 externalAdReply: { 
-title: 'PANHWAR MD',
+title: 'ABDULLAH KING MD',
 body: `${pushname}`,
 mediaType: 1,
-sourceUrl: "https://github.com/Panhwar110/Panhwar-MD" ,
-thumbnailUrl: "https://i.ibb.co/7NKFsxS/IMG-20241119-WA0087.jpg" ,
+sourceUrl: "https://github.com/abdullahkh123/ABDULLAH-KING-MD" ,
+thumbnailUrl: "https://i.ibb.co/gJWVBxj/Manul-Ofc-X.jpg" ,
 renderLargerThumbnail: true,
 showAdAttribution: true
 }
