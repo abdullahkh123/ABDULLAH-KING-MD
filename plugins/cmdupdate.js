@@ -35,7 +35,7 @@ async (conn, mek, m, {
   reply
 }) => {
   try {
-    if (!isOwner) return reply("Only bot owners can use this command.");
+    if (!isOwner) return reply("Only bot owners can use this command. TO LUN NA PAKER NAKIL");
     
     const pluginsDir = path.join(__dirname, '../plugins');
     const files = fs.readdirSync(pluginsDir);
