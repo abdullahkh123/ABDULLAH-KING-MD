@@ -26,7 +26,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ╰━━━━━━━━━━━━━━━┈⊷
 *╭━━〔 Menu List 〕━━┈⊷*
 *┃◈╭─────────────·๏*  *╭┈───────────────•* *┃◈├ 1* • ➠ *【 OWNER MENU 】*
-*┃◈ ├ 2* • ➠ *【 REPO】‎*
+*┃◈ ├ 2* • ➠ *【 REPO👓】‎*
 *┃◈ ├ 3* • ➠ *【 GROUP MENU 】*
 *┃◈├ 4* • ➠ *【 ALL MENU 】‎*
 *┃◈├ 5* • ➠ *【 OTHER MENU 】*
