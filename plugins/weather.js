@@ -28,7 +28,7 @@ async (conn, mek, m, { from, q, reply }) => {
 💨 *Wind Speed*: ${data.wind.speed} m/s
 🔽 *Pressure*: ${data.main.pressure} hPa
 
-*POWERED BY PANHWAR MD*
+*POWERED BY ABDULLAH-KIMG-MD*
 `;
         return reply(weather);
     } catch (e) {
